@@ -1,0 +1,13 @@
+development:
+  adapter: mysql
+  database: rs_test_development
+  username: root
+  password: forgetSec87
+  host: localhost
+  
+production:
+  adapter: mysql
+  database: rs_test_production
+  username: dbapp
+  password: 423fwjh934934
+  host: master1.sytsevliegen.com
